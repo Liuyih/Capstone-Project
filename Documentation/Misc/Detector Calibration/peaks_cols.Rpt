@@ -1,0 +1,17 @@
+
+Detector #3      ACQ 10-Jan-2020 at 22:44:53   RT = 131.6   LT = 109.8
+            No detector description was entered
+            List Mod Calibration Data
+ROI#   RANGE( keV)     GROSS       NET    +/-   CENTROID  FWHM FW(1/5)M LIBRARY ( keV)       Bq    +/-
+ 1    6.90   14.33     32036      9053    357     11.11   1.95   3.30   No close library match!
+ 2   49.45   56.89     15197       428    277     55.65   0.21   3.72   No close library match!
+ 3   77.54   84.97     57934     38145    375     80.97   2.45   3.71   No close library match!
+ 4  272.02  279.86     15623      6211    241    276.50   2.31   3.48   No close library match!
+ 5  298.64  306.48     26175     17471    256    302.98   2.40   3.62   No close library match!
+ 6  352.50  360.34     59841     50026    323    356.20   2.41   3.81   No close library match!
+ 7  379.94  387.78     14523      7100    219    384.03   2.36   3.55   No close library match!
+ 8  657.50  666.16     97575     91505    359    661.56   2.62   4.05   No close library match!
+ 9  693.78  702.43       903       -57     77    701.82   0.22   0.70   No close library match!
+10  935.83  944.89      1373        38     93    940.40   0.39   0.63   No close library match!
+11 1168.84 1178.30      9789      9053    119   1173.41   2.67   4.52   No close library match!
+12 1327.22 1336.68      8576      8129    106   1332.59   3.19   4.83   No close library match!

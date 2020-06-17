@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+jedi = "*"
+mypy = "*"
+rope = "*"
+pytest = "*"
+
+[packages]
+matplotlib = "~=3.1.2"
+scikit-learn = "*"
+numpy = "*"
+watchdog = "*"
+
+[requires]
+
+[scripts]

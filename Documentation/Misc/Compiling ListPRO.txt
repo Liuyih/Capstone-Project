@@ -1,0 +1,28 @@
+Written, performed early 2020 by Sean Gillen.
+
+Compiling ListPRO:
+VS2017 with these packages:
+- Visual MFC for x86 and x64
+  - Project is an MFC app, using CDialog and related GUI stuff
+- Windows Universal CRT SDK
+  - Project uses some C runtime stuff
+- Visual C++ ATL for x86 and x64
+  - I think this is used to control an Ortec COM component?
+
+Code changes:
+ListPRODlg.cpp
+Change line 668: CreateFile argument 3, dwShareMode, from 0 to FILE_SHARE_READ
+
+Project changes (necessary to bundle MFC and CRT stuff in .exe):
+Configuration Properties -> General -> Use of MFC : Use MFC in a Static Library
+Configuration Properties -> C/C++ -> Code Generation -> Runtime Library : Multi-threaded (/MT)
+- If Multi-threaded DLL (/MD) is picked, it won't bundle CRT by the looks of it
+https://docs.microsoft.com/en-us/cpp/c-runtime-library/crt-library-features
+https://docs.microsoft.com/en-us/cpp/build/reference/md-mt-ld-use-run-time-library
+
+Opening ListPRO:
+Need Ortec Connections driver installed:
+- Run ConnectionsSetup.exe to get Ortec driver installed.
+- Don't need to check any of the devices under Instrument Families in order to open ListPRO.
+- Don't need to restart computer.
+Open ListPRO.exe.

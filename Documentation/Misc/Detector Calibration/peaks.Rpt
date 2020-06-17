@@ -1,0 +1,64 @@
+
+Detector #3      ACQ 10-Jan-2020 at 22:44:53   RT = 131.6   LT = 109.8
+            No detector description was entered
+            List Mod Calibration Data
+
+ROI # 1     RANGE: 34 = 6.90keV  to  70 = 14.33keV
+            AREA : Gross =  32036    Net = 9053   +/- 357
+            CENTROID: 54.41  = 11.11keV
+            SHAPE: FWHM = 1.95     FW(1/5)M = 3.30
+
+ROI # 2     RANGE: 240 = 49.45keV  to  276 = 56.89keV
+            AREA : Gross =  15197    Net = 428   +/- 277
+            CENTROID: 270.00  = 55.65keV
+            SHAPE: FWHM = 0.21     FW(1/5)M = 3.72
+
+ROI # 3     RANGE: 376 = 77.54keV  to  412 = 84.97keV
+            AREA : Gross =  57934    Net = 38145   +/- 375
+            CENTROID: 392.60  = 80.97keV
+            SHAPE: FWHM = 2.45     FW(1/5)M = 3.71
+
+ROI # 4     RANGE: 1318 = 272.02keV  to  1356 = 279.86keV
+            AREA : Gross =  15623    Net = 6211   +/- 241
+            CENTROID: 1339.69  = 276.50keV
+            SHAPE: FWHM = 2.31     FW(1/5)M = 3.48
+
+ROI # 5     RANGE: 1447 = 298.64keV  to  1485 = 306.48keV
+            AREA : Gross =  26175    Net = 17471   +/- 256
+            CENTROID: 1468.02  = 302.98keV
+            SHAPE: FWHM = 2.40     FW(1/5)M = 3.62
+
+ROI # 6     RANGE: 1708 = 352.50keV  to  1746 = 360.34keV
+            AREA : Gross =  59841    Net = 50026   +/- 323
+            CENTROID: 1725.95  = 356.20keV
+            SHAPE: FWHM = 2.41     FW(1/5)M = 3.81
+
+ROI # 7     RANGE: 1841 = 379.94keV  to  1879 = 387.78keV
+            AREA : Gross =  14523    Net = 7100   +/- 219
+            CENTROID: 1860.80  = 384.03keV
+            SHAPE: FWHM = 2.36     FW(1/5)M = 3.55
+
+ROI # 8     RANGE: 3187 = 657.50keV  to  3229 = 666.16keV
+            AREA : Gross =  97575    Net = 91505   +/- 359
+            CENTROID: 3206.68  = 661.56keV
+            SHAPE: FWHM = 2.62     FW(1/5)M = 4.05
+
+ROI # 9     RANGE: 3363 = 693.78keV  to  3405 = 702.43keV
+            AREA : Gross =  903    Net = -57   +/- 77
+            CENTROID: 3402.00  = 701.82keV
+            SHAPE: FWHM = 0.22     FW(1/5)M = 0.70
+
+ROI # 10    RANGE: 4538 = 935.83keV  to  4582 = 944.89keV
+            AREA : Gross =  1373    Net = 38   +/- 93
+            CENTROID: 4560.16  = 940.40keV
+            SHAPE: FWHM = 0.39     FW(1/5)M = 0.63
+
+ROI # 11    RANGE: 5670 = 1168.84keV  to  5716 = 1178.30keV
+            AREA : Gross =  9789    Net = 9053   +/- 119
+            CENTROID: 5692.22  = 1173.41keV
+            SHAPE: FWHM = 2.67     FW(1/5)M = 4.52
+
+ROI # 12    RANGE: 6440 = 1327.22keV  to  6486 = 1336.68keV
+            AREA : Gross =  8576    Net = 8129   +/- 106
+            CENTROID: 6466.09  = 1332.59keV
+            SHAPE: FWHM = 3.19     FW(1/5)M = 4.83
